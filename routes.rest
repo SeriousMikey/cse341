@@ -1,0 +1,5 @@
+# Returns all users in the database
+GET http://localhost:3000/users
+
+# Returns a single user in the database
+GET http://localhost:3000/users/:Id
